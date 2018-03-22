@@ -1,0 +1,11 @@
+{
+  "name": "hw4",
+  "main": "server.js",
+  "dependencies": {
+    "blob": "*",
+    "body-parser": "*",
+    "cassandra-driver": "*",
+    "express": "*",
+    "form-data": "^2.3.2"
+  }
+}
